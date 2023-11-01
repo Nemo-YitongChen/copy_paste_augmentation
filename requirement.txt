@@ -1,0 +1,14 @@
+{
+  'Required Packages':
+['detectron2',
+'numpy',
+'sklearn',
+'shapely',
+'os',
+'json',
+'cv2',
+'random',
+'sys',
+'pyclipper',
+'matplotlib'],
+}
